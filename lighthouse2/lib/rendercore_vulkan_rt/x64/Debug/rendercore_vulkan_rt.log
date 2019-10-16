@@ -1,0 +1,17 @@
+﻿  rendercore.cpp
+  bottom_level_as.cpp
+  core_api.cpp
+  core_mesh.cpp
+  top_level_as.cpp
+  uniform_objects.cpp
+  vulkan_compute_pipeline.cpp
+  vulkan_descriptor_set.cpp
+  vulkan_device.cpp
+  vulkan_gl_texture_interop.cpp
+  vulkan_image.cpp
+  vulkan_ray_trace_nv_pipeline.cpp
+  vulkan_shader.cpp
+  vulkan_shader_binding_table_generator.cpp
+  Generating Code...
+     Creating library ..\..\coredlls\Debug\rendercore_vulkan_rt.lib and object ..\..\coredlls\Debug\rendercore_vulkan_rt.exp
+  rendercore_vulkan_rt.vcxproj -> C:\Users\Ciska\UU\MOV\Practicum\mov_ass3\lighthouse2\lib\rendercore_vulkan_rt\..\..\coredlls\Debug\rendercore_vulkan_rt.dll

@@ -1,0 +1,18 @@
+﻿  rendersystem.cpp
+  tinyxml2.cpp
+  host_anim.cpp
+  host_node.cpp
+  Generating Code...
+  camera.cpp
+  core_api_base.cpp
+  host_light.cpp
+  host_material.cpp
+  host_mesh.cpp
+  host_scene.cpp
+  host_skydome.cpp
+  host_texture.cpp
+  render_api.cpp
+  Generating Code...
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  host_mesh_tinyobj.cpp
+  rendersystem.vcxproj -> C:\Users\Ciska\UU\MOV\Practicum\mov_ass3\lighthouse2\lib\RenderSystem\lib\Debug\rendersystem.lib
