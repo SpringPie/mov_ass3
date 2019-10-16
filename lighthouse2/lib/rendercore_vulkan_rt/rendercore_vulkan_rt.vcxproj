@@ -23,7 +23,7 @@
     <ProjectGuid>{0FA8FEF9-6E1C-4153-B169-523B14CBC615}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>rendercorevulkanrt</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -228,8 +228,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders\counters.glsl" />
-    <None Include="shaders\disney.glsl" />
-    <None Include="shaders\lambert.glsl" />
     <None Include="shaders\material.glsl" />
     <None Include="shaders\random.glsl" />
     <None Include="shaders\rt_finalize.comp" />
