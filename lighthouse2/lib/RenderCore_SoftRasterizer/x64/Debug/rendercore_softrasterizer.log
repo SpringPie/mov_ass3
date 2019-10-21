@@ -1,6 +1,0 @@
-﻿  rendercore.cpp
-  core_api.cpp
-  rasterizer.cpp
-  Generating Code...
-     Creating library ..\..\coredlls\Debug\rendercore_softrasterizer.lib and object ..\..\coredlls\Debug\rendercore_softrasterizer.exp
-  rendercore_softrasterizer.vcxproj -> C:\Users\Ciska\UU\MOV\Practicum\mov_ass3\lighthouse2\lib\RenderCore_SoftRasterizer\..\..\coredlls\Debug\rendercore_softrasterizer.dll
