@@ -673,6 +673,7 @@ void HostMesh::SetPose( const HostSkin* skin, const mat4& meshTransform )
 		vertexNormals.resize( vertices.size() );
 	}
 	// transform original into vertex vector using skin matrices
+#pragma omp parallel for
 	for (int s = (int)vertices.size(), i = 0; i < s; i++)
 	{
 		uint4 j4 = joints[i];
